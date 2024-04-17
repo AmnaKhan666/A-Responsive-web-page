@@ -1,0 +1,25 @@
+.one
+{
+    color: #6F42C1;
+}
+.two
+{
+    color:  #808081;
+}
+.bi-virus2
+{
+    height: 300px;
+}
+.card
+{
+    border-radius:
+    10px, 10px, 0px, 0px ;
+}
+.bi-x
+{
+    color: #EF5DA8;
+}
+a {
+    text-decoration: none;
+    color: #6F42C1;
+  }
